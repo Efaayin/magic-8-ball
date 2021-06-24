@@ -16,10 +16,10 @@ class MyApp extends StatelessWidget {
           title: Text(
             'Magic 8 Ball',
           ),
-          backgroundColor: Colors.blue.shade900,
+          backgroundColor: Colors.red.shade900,
         ),
         body: MagicBall(),
-        backgroundColor: Colors.blue,
+        backgroundColor: Colors.red.shade500,
       ),
     );
   }

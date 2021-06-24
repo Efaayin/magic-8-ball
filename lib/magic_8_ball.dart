@@ -15,7 +15,6 @@ class _MagicBallState extends State<MagicBall> {
   @override
   Widget build(BuildContext context) {
     return Container(
-      // color: Colors.blue,
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
